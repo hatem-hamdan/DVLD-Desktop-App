@@ -70,7 +70,7 @@ This project is designed using **Three-Tier Architecture**:
 
 ### 📄 Details Screen
 
-![Details](Resources/Side details.jpg)
+![Details](Resources/Sidedetails.jpg)
 
 ---
 
