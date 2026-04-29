@@ -56,7 +56,7 @@ This project is designed using **Three-Tier Architecture**:
 
 ### 🏠 Main Screen
 
-![Main](D:\Project\DVLD\Resources)
+![Main](Project\DVLD\Resources/Main.png)
 
 ### 👥 Manage People
 
