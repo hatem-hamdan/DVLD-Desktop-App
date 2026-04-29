@@ -52,23 +52,27 @@ This project is designed using **Three-Tier Architecture**:
 
 ### 🔐 Login Screen
 
-![Login](assets/login.png)
+![Login](Screens/Login.png)
+
+### 🏠 Main Screen
+
+![Main](Screens/Main.png)
 
 ### 👥 Manage People
 
-![People](assets/people.png)
+![People](Screens/people.jpg)
 
 ### 🚗 Manage Drivers
 
-![Drivers](assets/drivers.png)
+![Drivers](Screens/Mange Driver.jpg)
 
 ### 👤 Manage Users
 
-![Users](assets/users.png)
+![Users](Screens/Users.jpg)
 
-### 🧠 System Architecture
+### 📄 Details Screen
 
-![Architecture](assets/architecture.png)
+![Details](Screens/Side details.jpg)
 
 ---
 
@@ -90,9 +94,7 @@ git clone https://github.com/your-username/DVLD.git
 ```
 
 2. Open the solution in Visual Studio
-
 3. Setup the database connection (SQL Server)
-
 4. Run the project
 
 ---
@@ -106,4 +108,4 @@ git clone https://github.com/your-username/DVLD.git
 
 ## 👨‍💻 Author
 
-Developed by: **Your Name**
+Developed by: **Hatem Hamdan**
