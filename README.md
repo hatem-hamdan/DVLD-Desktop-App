@@ -66,11 +66,11 @@ This project is designed using **Three-Tier Architecture**:
 
 ### 👤 Manage Users
 
-![Users](Resources/Users.JPG)
+![Users](Resources/Users.jpg)
 
 ### 📄 Details Screen
 
-![Details](Screens/Side details.jpg)
+![Details](Resources/Side details.jpg)
 
 ---
 
