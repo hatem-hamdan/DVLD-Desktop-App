@@ -52,11 +52,10 @@ This project is designed using **Three-Tier Architecture**:
 
 ### 🔐 Login Screen
 
-![Login](Resources/Login.png)
-
+![Login](Resources/Login.PNG)
 ### 🏠 Main Screen
 
-![Main](Resources/Main.png)
+![Main](Resources/Main.PNG)
 ### 👥 Manage People
 
 ![People](Resources/people.jpg)
@@ -67,7 +66,7 @@ This project is designed using **Three-Tier Architecture**:
 
 ### 👤 Manage Users
 
-![Users](Resources/Users.jpg)
+![Users](Resources/Users.JPG)
 
 ### 📄 Details Screen
 
